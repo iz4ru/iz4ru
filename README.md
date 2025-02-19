@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @iz4ru 🧑🏻‍💻
-- 👀 I’m interested in C, C++, Python 💁
-- 🌱 I’m currently learning JavaScript 🙌
+- 👀 I’m interested in PHP 💁
+- 🌱 I’m currently learning Laravel 🙌
 - ✨ Wish me luck 🤞
